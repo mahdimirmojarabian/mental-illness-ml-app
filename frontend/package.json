@@ -1,0 +1,17 @@
+{
+    "name": "ml-frontend",
+    "version": "1.0.0",
+    "dependencies": {
+        "axios": "^1.9.0",
+        "jwt-decode": "^4.0.0",
+        "next": "^15.3.2",
+        "react": "^18.2.0",
+        "react-dom": "^18.2.0",
+        "react-toastify": "^11.0.5"
+    },
+    "scripts": {
+        "dev": "next dev -H localhost -p 4000",
+        "build": "next build",
+        "start": "next start"
+    }
+}
